@@ -45,7 +45,6 @@ class _NinjaListState extends State<NinjaList> {
           MaterialPageRoute(
             builder: (context) => Ninjacard(todo: ninjaindex[index]),
           ),
-          
         );
                  
                   
