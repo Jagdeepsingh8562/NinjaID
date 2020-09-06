@@ -1,6 +1,9 @@
 # NinjaID
 
-A new Flutter project.
+NinjaID App is written in Dart ,It simply display some detail of chosen Ninja using Mock data
+
+# Screenshots
+![](screenshots/screensot_1.png)![](screenshots/screensot_2.png)![](screenshots/screensot_3.png)
 
 ## Getting Started
 
