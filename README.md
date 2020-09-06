@@ -3,7 +3,7 @@
 NinjaID App is written in Dart ,It simply display some detail of chosen Ninja using Mock data
 
 # Screenshots
-❮img src="screenshots/screenshot_1.png" width="100" ❯
+❮img src="screenshots/screenshot_1.png" width="100"❯
 ![](screenshots/screenshot_1.png)![](screenshots/screenshot_2.png)
 ![](screenshots/screenshot_3.png)
 
